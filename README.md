@@ -1,4 +1,7 @@
 # About
+Just a repro for some fun Line of Duty things
+
+### Line of Duty Character Interactions & Relationships
 I'm an analyst by profession and I thought it would be a fun little side project to map out the relationships and interactions of the LoD characters. I'm aware some parts are a little clustered/messy - I'm working to tidy it up overall, but I hope you enjoy.
 
 These graphs were created using [IBM Security i2 Analyst's Notebook](https://www.ibm.com/ie-en/products/i2-analysts-notebook?lnk=hm) software.
