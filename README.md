@@ -2,7 +2,11 @@
 Just a repro for some fun Line of Duty things
 
 ### Line of Duty Character Interactions & Relationships
-I'm an analyst by profession and I thought it would be a fun little side project to map out the relationships and interactions of the LoD characters. I'm aware some parts are a little clustered/messy - I'm working to tidy it up overall, but I hope you enjoy.
+
+[[LINK](https://github.com/RedSpid3r/LineOfDuty/blob/main/LoD_Characters_AllSeasons.png)] I'm an analyst by profession and I thought it would be a fun little side project to map out the relationships and interactions of the LoD characters. I'm aware some parts are a little clustered/messy - I'm working to tidy it up overall, but I hope you enjoy.
+
+### Line of Duty Glossary
+[[LINK](https://github.com/RedSpid3r/LineOfDuty/blob/main/LoD_Acronyms.md)] A list of aconyms used in the show, and their meanings.
 
 These graphs were created using [IBM Security i2 Analyst's Notebook](https://www.ibm.com/ie-en/products/i2-analysts-notebook?lnk=hm) software.
 
