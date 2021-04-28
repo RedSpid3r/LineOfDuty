@@ -9,10 +9,10 @@ A list of aconyms used in the show, and their meanings.
 | ACC          	| Assistant Chief Constable                	|
 | AFO          	| Authorised Firearms Officer              	|
 | ANPR         	| Automatic Number Plate Recognition       	|
-| ARU          	| Armed Response Unit                   	|
+| ARU          	| Armed Response Unit                   	  |
 | ARV          	| Armed Response Vehicle                   	|
 | CASEVAC      	| Casualty Evacuation                      	|
-| CC	      	| Chief Constable	                     	|
+| CC	      	  | Chief Constable	                     	    |
 | CCTV         	| Closed Circuit Television                	|
 | CHIS         	| Covert Human Intelligence Source         	|
 | CID          	| Criminal Investigation Department        	|
@@ -49,36 +49,38 @@ A list of aconyms used in the show, and their meanings.
 | ID           	| Identification                           	|
 | IP (Address) 	| Internet Protocol (Address)              	|
 | IPCC         	| Independent Police Complaints Commission 	|
-| IR		 	| Icident Response			              	|
-| ISP        	| Internet Service Provider				 	|
+| IR		 	      | Icident Response			                  	|
+| ISP         	| Internet Service Provider				 	        |
 | INTEL        	| Intelligence                            	|
 | MISPER       	| MISsing PERson                           	|
-| MIT       	| Murder Investigation Team                	|
+| MIT         	| Murder Investigation Team                	|
 | MO           	| Modus Operandi                           	|
-| NABIS			| NAtional Ballistics Intelligence Service	|
+| NABIS			    | NAtional Ballistics Intelligence Service	|
 | NPAS         	| National Police Air Service              	|
 | OBS          	| Observation                              	|
 | OCG          	| Organised Crime Group                    	|
 | OFC          	| Operational Firearms Commander           	|
-| OIC          	| Officer In Charge				           	|
+| OIC          	| Officer In Charge				           	      |
 | OP(S)        	| Operation(s)                             	|
 | PACE         	| Police & Criminal Evidence Act           	|
 | PCC          	| Police & Crime Commisioner               	|
 | PCSO          | Police Community Support Officer         	|
-| PIM          	| Post-Incident Manager		              	|
+| PIM          	| Post-Incident Manager		              	  |
+| PIP          	| Professionalising Investigation Programme |
 | PM           	| Post Mortem                              	|
 | PNC          	| Police National Computer                 	|
 | PC           	| Police Constable                         	|
 | PS           	| Police Seargent                          	|
 | RT           	| Radio Transmission                       	|
 | RTC          	| Road Traffic Collision                   	|
-| SCG          	| Serious Crime Group                   	|
+| SCG          	| Serious Crime Group                   	  |
 | SIO          	| Senior Investigating Officer             	|
-| SITREP       	| SITuation REPort			             	|
+| SITREP       	| SITuation REPort			             	      |
 | SFC          	| Strategic Firearms Command               	|
 | TA           	| Tactical Advisor                         	|
 | TFC          	| Tactical Firearms Commander              	|
 | TO-20        	| Tactical Operations Unit 20              	|
+| TSG         	| Tactical Support Group                  	|
 | UCO          	| UnderCover Operative                     	|
 | VPN          	| Virtual Private Network                  	|
-| VPU			| Vulnerable Prisoner Unit					|
+| VPU		      	| Vulnerable Prisoner Unit					        |
